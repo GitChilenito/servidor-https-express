@@ -1,4 +1,4 @@
 node_modules/
 certs/
 *.pem
-*.key
+*.key# Certificados SSL ignorados por seguridad
