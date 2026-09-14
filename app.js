@@ -33,4 +33,4 @@ const servidorHTTPS = https.createServer(opcionesSSL, app);
 
 servidorHTTPS.listen(PUERTO, () => {
   console.log(`🚀 Servidor HTTPS escuchando en: https://localhost:${PUERTO}`);
-});
+});// Servidor HTTPS configurado correctamente
